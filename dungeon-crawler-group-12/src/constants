@@ -1,0 +1,15 @@
+//Lisää tähän vakoita joita käytetään monessa paikassa
+//Tai jos oletat että niitä halutaan vaihtaa
+
+#define TILESIZE 32
+#define ROOM_WIDTH 20
+#define ROOM_HEIGHT 16
+
+#define SIDEBAR 300
+#define BELOWBAR 300
+
+#define FRAMERATE 10000
+
+#define TOTAL_ROOMS 9
+#define FLOOR_WIDTH 3
+#define FLOOR_HEIGHT 3

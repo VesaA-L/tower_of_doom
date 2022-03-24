@@ -1,0 +1,2 @@
+Tässä on nyt state filet, eli menu, game, lose ja win state. lähinnä vaan helpottamaan navigointia että src vähemmän tukossa
+Tulevaisuudessa voidaan lisätä jos halutaan pause, inventory, settings yms. statet
